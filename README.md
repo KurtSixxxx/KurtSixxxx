@@ -1,6 +1,19 @@
-### Ciao! 👋 Sono Giulio
+# 💫 About Me:
+Hi, I'm Giulio! 👋<br>I'm a Computer Science student (L-31) at the University of Catania. For me, Computer Science isn't just about studying; it's a continuous challenge to understand how things work "under the hood."<br>🎯 Goals & Vision<br>Ambition: My long-term goal is to specialize in Cybersecurity, a field I find fascinating due to its complexity and evolving challenges.<br>Relationship with AI: I enjoy experimenting with how Artificial Intelligence can accelerate development and prototyping. However, my priority remains independence. I am committed to constantly improving my problem-solving skills and cognitive abilities by relying on my own efforts.<br>Projects: I have many ideas in the works. Even if I take it one step at a time, my goal is to turn every challenge into a concrete result.<br>📚 Study & Organization<br>Project MyUniversity: I maintain a repository dedicated to organizing notes and resources for the DMI (Department of Mathematics and Informatics) in Catania.<br>Workflow: A Personal Knowledge Management enthusiast. I use Notion and Markdown to structure my studies and optimize daily routines.<br>Creativity: Drawing from my past as a YouTuber, I combine my passion for technology with visual communication and video editing.<br>🚀 Let's Connect!<br>I'm always open to new challenges and collaborations. If you want to chat about study methods, organization, or tech:<br>📫 Contact me: giuliocasella6@gmail.com<br>💬 Ask me about: C programming, Knowledge Management in Notion, or video editing.<br>
 
-**Sono uno studente di Informatica all'Università di Catania.**  
-Utilizzo questo GitHub per condividere i miei progetti accademici, materiali di studio ed esperimenti personali!
 
-- 🔭 Attualmente sto lavorando per migliorare la mia comprensione universitaria.
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/giiulio27) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/giuliofilippocasella) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:giuliocasella6@gmail.com) 
+
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![FFmpeg](https://shields.io/badge/FFmpeg-%23171717.svg?logo=ffmpeg&style=for-the-badge&labelColor=171717&logoColor=5cb85c) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)  ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white) ![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white) ![Google Gemini](https://img.shields.io/badge/google%20gemini-8E75B2?style=for-the-badge&logo=google%20gemini&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=KurtSixxxx&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=KurtSixxxx&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=KurtSixxxx&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=KurtSixxxx&theme=radical&no-frame=true&no-bg=true&margin-w=4)
+
+---
+[![](https://komarev.com/ghpvc/?username=KurtSixxxx&icon=0&color=12)](https://visitcount.itsvg.in)
