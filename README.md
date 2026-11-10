@@ -54,9 +54,9 @@ A Telegram bot that lets users report road checkpoints in real time to a shared 
 
 | | |
 |:--|:--|
-| **Languages** | C, C++, Python, JavaScript, LaTeX |
+| **Languages** | C, C++, Python, JavaScript, Processing, LaTeX, Markdown |
 | **Focus** | Cybersecurity, penetration testing |
-| **Core topics** | OOP, data structures, algorithms and complexity |
+| **Core topics** | OOP, data structures |
 | **Tools** | Git, GitHub Actions, VS Code, PowerShell, FFmpeg |
 | **Other** | Technical writing, Notion, video editing, Adobe Photoshop |
 
