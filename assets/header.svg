@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="Giulio Casella - Computer Science Student">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="Giulio Casella - Computer Science Student, aspiring Penetration Tester">
   <defs>
     <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse">
       <circle cx="1" cy="1" r="1" fill="#21262d"/>
@@ -24,7 +24,7 @@
   </g>
 
   <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="15" fill="#6e7681" letter-spacing="1">
-    <text x="72" y="252">C / C++   ·   Systems   ·   Cybersecurity   ·   Developer Tools</text>
+    <text x="72" y="252">Programming   ·   Cybersecurity   ·   Penetration Testing</text>
   </g>
 
   <rect x="72" y="226" width="40" height="2" fill="#3fb950"/>

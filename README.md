@@ -5,7 +5,7 @@
 ## About
 
 I'm a Computer Science student (L-31) at the University of Catania, Department of Mathematics and Computer Science (DMI).
-I like understanding how things work under the hood: memory, pointers, data structures, the machine behind the abstraction. My long-term goal is to specialize in **cybersecurity**.
+I love programming, and I'm passionate about **cybersecurity**: my goal is to work as a **penetration tester**, finding weaknesses in systems before someone else does.
 
 I build tools that solve problems I actually have, usually for studying, and then share them with other students. I use AI to prototype faster, but I keep problem solving and design decisions on my side of the keyboard.
 
@@ -55,7 +55,8 @@ A Telegram bot that lets users report road checkpoints in real time to a shared 
 | | |
 |:--|:--|
 | **Languages** | C, C++, Python, JavaScript, LaTeX |
-| **Core topics** | OOP, dynamic memory, data structures, algorithms and complexity |
+| **Focus** | Cybersecurity, penetration testing |
+| **Core topics** | OOP, data structures, algorithms and complexity |
 | **Tools** | Git, GitHub Actions, VS Code, PowerShell, FFmpeg |
 | **Other** | Technical writing, Notion, video editing, Adobe Photoshop |
 
@@ -71,7 +72,7 @@ A Telegram bot that lets users report road checkpoints in real time to a shared 
 
 [Email](mailto:giuliocasella6@gmail.com) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/giuliofilippocasella) &nbsp;·&nbsp; [Instagram](https://instagram.com/giiulio27)
 
-Open to collaborations, study projects and conversations about C, systems and security.
+Open to collaborations, study projects and conversations about programming and offensive security.
 
 <br>
 
